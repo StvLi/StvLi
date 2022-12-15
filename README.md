@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StvLi
-- 👀 I’m interested in robotics & controlling
+- 👀 I’m interested in Robotics & Controlling
 - 🌱 I’m currently learning Optical Control, Intelligent Control and SLAM
 - 💞️ I’m looking to collaborate on Romantic Relationship (???)
 - 📫 How to reach me e-mail:3190102290@zju.edu.cn
