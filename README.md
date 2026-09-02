@@ -4,4 +4,17 @@
 
 ## GitHub Stats
 
-[![StvLi's GitHub stats](https://github-stats-extended.vercel.app/api?username=StvLi&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=StvLi&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=StvLi&show_icons=true&theme=dark">
+      <img src="https://github-stats-extended.vercel.app/api?username=StvLi&show_icons=true&theme=default" alt="StvLi's GitHub stats">
+    </picture>
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=StvLi&layout=compact&langs_count=8&theme=dark">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=StvLi&layout=compact&langs_count=8&theme=default" alt="Top Languages">
+    </picture>
+  </a>
+</div>
