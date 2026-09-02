@@ -2,9 +2,8 @@
 - 👀 I’m interested in Dynamics, Robotics & Controlling
 - 📫 How to reach me e-mail:3190102290@zju.edu.cn
 
-<!---
-StvLi/StvLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stvli)](https://github.com/anuraghazra/github-readme-stats)
+[![StvLi's GitHub stats](https://github-stats-extended.vercel.app/api?username=StvLi&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=StvLi&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
