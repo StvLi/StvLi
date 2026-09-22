@@ -2,11 +2,11 @@
 - 👀 I’m interested in Dynamics, Robotics & Controlling
 - 📫 How to reach me e-mail:3190102290@zju.edu.cn
 
+## GitHub Stats
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=StvLi" alt="Profile views" />
 </p>
-
-## GitHub Stats
 
 <div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px">
   <a href="https://github.com/stats-organization/github-stats-extended">
